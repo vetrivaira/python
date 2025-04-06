@@ -1,0 +1,9 @@
+a = int (input ())
+b = int (input ())
+c = int (input ())
+d = a*b*c
+e = a+b+c
+f = d/e
+print ("Multiplication is =",d)
+print ("Added Value is =",e)
+print ("Divided Value is =", f)
